@@ -1,0 +1,13 @@
+.content {text-align: center;}/* Your styles here */
+.sfondo {background-color: black;}
+.immagine {background-image: url(../images/banner.jpg);}
+.immagine {height: 170px;}
+.immagine1 {border-radius: 100%;width: 300px;height: 300px;margin}
+h3 {color: #25a2c3;}
+.sfondorosso {height: 200px;background-color: #e22d0e;}
+.sfondorosso h3 {padding-top: 40px;color: white;}
+.sfondorosso p {color: white;}
+.immagine2 {width: 100%;}
+.article2 {border: 1px solid #dee1e3;}
+.article2 {margin-left: 50px;margin-right: 50px;margin-top: 30px;}
+.footer {background-color: aquamarine; height: 350px;}
